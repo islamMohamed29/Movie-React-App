@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Movie-React-App/static/css/main.19344f48.css",
+    "main.js": "/Movie-React-App/static/js/main.69b6937e.js",
+    "static/js/787.d4aba7ab.chunk.js": "/Movie-React-App/static/js/787.d4aba7ab.chunk.js",
+    "static/media/shape.png": "/Movie-React-App/static/media/shape.d4c6e2b9167ca4ee4726.png",
+    "static/media/ucm_bg.jpg": "/Movie-React-App/static/media/ucm_bg.dbb3f9632b5cc995ff9f.jpg",
+    "static/media/banner_bg.jpg": "/Movie-React-App/static/media/banner_bg.9c4b1e1796c6fe9b5765.jpg",
+    "static/media/fa-solid-900.ttf": "/Movie-React-App/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/tr_movies_bg.jpg": "/Movie-React-App/static/media/tr_movies_bg.774591af5e4a56aad2a1.jpg",
+    "static/media/bbb.jpg": "/Movie-React-App/static/media/bbb.36853873a9a2e95d74db.jpg",
+    "static/media/fa-brands-400.ttf": "/Movie-React-App/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/fa-solid-900.woff2": "/Movie-React-App/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/background-header.jpg": "/Movie-React-App/static/media/background-header.2e599f86554bcea734f9.jpg",
+    "static/media/fa-brands-400.woff2": "/Movie-React-App/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/fa-regular-400.ttf": "/Movie-React-App/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/footer_bg.jpg": "/Movie-React-App/static/media/footer_bg.68f266dd123c456357b0.jpg",
+    "static/media/fa-regular-400.woff2": "/Movie-React-App/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Movie-React-App/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Movie-React-App/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "index.html": "/Movie-React-App/index.html",
+    "main.19344f48.css.map": "/Movie-React-App/static/css/main.19344f48.css.map",
+    "main.69b6937e.js.map": "/Movie-React-App/static/js/main.69b6937e.js.map",
+    "787.d4aba7ab.chunk.js.map": "/Movie-React-App/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19344f48.css",
+    "static/js/main.69b6937e.js"
+  ]
+}
